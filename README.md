@@ -69,7 +69,7 @@ Without unnecessary complexity or heavy project-management software.
 1. Download or clone the repository
 
 ```bash
-git clone https://github.com/yourusername/architect-time-tracker.git
+git clone https://github.com/marinaxiuping/time-tracker-architecture.git
 ```
 
 2. Open the project folder
@@ -94,7 +94,3 @@ Created by **Marina Xiuping**
 Focused on simple and practical productivity solutions.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
