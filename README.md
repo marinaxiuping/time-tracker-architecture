@@ -54,10 +54,11 @@ Without unnecessary complexity or heavy project-management software.
 
 ## 📸 Preview
 
-_Add screenshots or GIFs here._
+<img width="2543" height="1137" alt="Captura de pantalla 2026-05-09 113724" src="https://github.com/user-attachments/assets/3a7ad68c-a0e9-4be8-be51-f1754c408320" />
+
 
 ```md
-<img width="2543" height="1137" alt="Captura de pantalla 2026-05-09 113724" src="https://github.com/user-attachments/assets/ed38fc84-12fa-4993-a5e7-ff9823d10008" />
+
 
 ```
 
@@ -73,7 +74,7 @@ git clone https://github.com/yourusername/architect-time-tracker.git
 
 2. Open the project folder
 
-3. Launch `index.html` in your browser
+3. Launch `Time_tracker.html` in your browser
 
 ---
 
@@ -89,7 +90,7 @@ git clone https://github.com/yourusername/architect-time-tracker.git
 
 ## 👤 Author
 
-Created by **Cho**  
+Created by **Marina Xiuping**  
 Focused on simple and practical productivity solutions.
 
 ---
